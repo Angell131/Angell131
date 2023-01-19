@@ -6,6 +6,12 @@
 	<li>Interested in Java and Ionic</li>
 </ul>
 <h3>Skills</h3>
+
+<p>
+<a href="https://unity.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/unity-colored.svg" width="36" height="36"></a>
+</p>
+
+
 <p>
 	<a href="https://www.oracle.com/es/java/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36"></a>
 	<a href="https://spring.io"><img src="https://camo.githubusercontent.com/4545b55c7771bbd175235c80b518dcbbf2f6ee0b984a51ad9363cba8cb70e67c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f737072696e67696f2f737072696e67696f2d69636f6e2e737667" width="36" height="36"></a>
@@ -20,9 +26,7 @@
 	<a href="https://www.heroku.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36"></a>
 </p>
 
-<p>
-<a href="https://unity.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/unity-colored.svg" width="36" height="36"></a>
-</p>
+
 
 <h3>Social</h3>
 <p><a href="https://www.linkedin.com/in/angel-lopez-melero-309a5a225/">
