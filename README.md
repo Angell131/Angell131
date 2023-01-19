@@ -19,6 +19,11 @@
 	<a href="https://firebase.google.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36"></a>
 	<a href="https://www.heroku.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36"></a>
 </p>
+
+<p>
+<a href="https://unity.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/unity-colored.svg" width="36" height="36"></a>
+</p>
+
 <h3>Social</h3>
 <p><a href="https://www.linkedin.com/in/angel-lopez-melero-309a5a225/">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36">
