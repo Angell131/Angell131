@@ -38,4 +38,4 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Angell131)](https://github.com/Angell131)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/Angell131)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angell131&layout=compact)](https://github.com/Angell131)
