@@ -8,7 +8,7 @@
 <h3>Skills</h3>
 
 <p>
-<a href="https://unity.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/unity-colored.svg" width="36" height="36"></a>
+<a href="https://unity.com"><img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' class='icon icon-tabler icon-tabler-brand-unity' width='24' height='24' viewBox='0 0 24 24' stroke-width='2' stroke='currentColor' fill='none' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath stroke='none' d='M0 0h24v24H0z' fill='none'/%3E%3Cpath d='M14 3l6 4v7' /%3E%3Cpath d='M18 17l-6 4l-6 -4' /%3E%3Cpath d='M4 14v-7l6 -4' /%3E%3Cpath d='M4 7l8 5v9' /%3E%3Cpath d='M20 7l-8 5' /%3E%3C/svg%3E" width="36" height="36"></a>
 </p>
 
 
