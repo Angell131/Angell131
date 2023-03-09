@@ -1,4 +1,4 @@
-<h1>Hi 👋 My name is Ángel López Melero</h1>
+<h1 style="color: green">Hi 👋 My name is Ángel López Melero</h1>
 <h2>Multiplatform Developer</h2>
 <ul>
 	<li>🌍  I'm based in Spain</li>
