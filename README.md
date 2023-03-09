@@ -36,6 +36,6 @@
 
 ## 📈 Estadísticas de GitHub
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Angell131)](https://github.com/Angell131)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Angell131&theme=merko&show_icons=true)](https://github.com/Angell131)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angell131&layout=compact)](https://github.com/Angell131)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angell131&theme=chartreuse-dark&show_icons=true)](https://github.com/Angell131)
